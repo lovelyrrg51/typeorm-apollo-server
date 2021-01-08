@@ -1,0 +1,13 @@
+{
+  "name": "@typeorm-apollo-express-server/cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^0.0.43"
+  },
+  "dependencies": {}
+}
